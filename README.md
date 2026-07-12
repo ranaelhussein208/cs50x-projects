@@ -19,8 +19,9 @@ This repository contains my programming assignments and projects completed as pa
 - Plurality
 - Recover
 - Inheritance
-- Speller
 - Sort
 - Volume
+- Filter-more
+- Scrabble
 
 The purpose of this repository is to document my progress in building a strong computer science foundation while preparing for graduate study in Computer Science.
