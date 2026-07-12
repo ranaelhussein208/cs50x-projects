@@ -24,4 +24,4 @@ This repository contains my programming assignments and projects completed as pa
 - Filter-more
 - Scrabble
 
-The purpose of this repository is to document my progress in building a strong computer science foundation while preparing for graduate study in Computer Science.
+This repository contains my solutions and programming assignments completed while studying Harvard University's CS50x: Introduction to Computer Science as preparation for graduate study in Computer Science.
