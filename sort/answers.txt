@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know? with sorted is the best case scenario n and with random or reversed n power 2, big difference 0.003s and 0.041/0.049s for worst case
+
+sort2 uses: merge sort
+
+How do you know? time with random, sorterd and reversed doesn't change too much around 0.002 s
+
+sort3 uses: selection sort
+
+How do you know? time is relatively the same 0.030 s with all data
