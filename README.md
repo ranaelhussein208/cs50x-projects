@@ -1,20 +1,17 @@
 # Harvard CS50x – Introduction to Computer Science
 
-This repository contains my solutions and projects completed while studying Harvard University's CS50x.
+This repository contains my programming assignments and projects completed as part of Harvard University's CS50x course.
 
-## Topics Covered 
-
+## Topics Covered
 - C Programming
 - Algorithms
 - Memory Management
 - Data Structures
 - File I/O
 - Recursion
-- SQL (coming soon)
-- Python (coming soon)
+- Searching and Sorting Algorithms
 
-## Completed Projects
-
+## Projects
 - Mario
 - Credit
 - Readability
@@ -26,4 +23,4 @@ This repository contains my solutions and projects completed while studying Harv
 - Sort
 - Volume
 
-This repository demonstrates my progress in learning core computer science concepts while preparing for graduate study in Computer Science.
+The purpose of this repository is to document my progress in building a strong computer science foundation while preparing for graduate study in Computer Science.
